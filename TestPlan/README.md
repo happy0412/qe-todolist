@@ -12,8 +12,7 @@ The Test Plan has been created to communicate the test approach to team members.
 QE Todolist is a web-based application that creates, update, edit, and delete items. This software was built with node js. The team is responsible for testing the application and ensuring it meet the minimum requirements.
 
 <h1>1.2 Team Members</h1>
-Resource Name	Role
-Siphahle Nomnganga	QA
+
 
  <h1>2 Application requirements</h1>
 The initial phase will include all must have requirements. These and any other requirements that get included must all be tested. At the end of the project a tester must be able to implement the following:
