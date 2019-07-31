@@ -42,7 +42,9 @@ Both manual and Automation Testing will be performed.
 <h1>5 Test Environment  </h1>
 A server is required for web server. The application will be tested on windows operating system and it will run on Google chrome.
  <h1> 6. Major Deliverables</h1>
-Deliverable	For	Date/ Milestone
-Test Plan	QE Manager	01/08/2019
-Test Cases	QE Manager	01/08/2019
-Test script	QE manager	01/08/2019
+ 
+Deliverable | For           | Date/ Milestone
+------------ | -------------  | ------------
+Test Plan|  QE Manager | 01/08/2019
+Test Cases|  QE Manager | 01/08/2019
+Test Script|  QE Manager | 01/08/2019
