@@ -8,7 +8,7 @@ Siphahle Nomnganga
 Test case id | Test scenairo           | Step Details           | Expected Results| Actual Results| Pass/Fail/Not executed/Suspended
 ------------ | -------------  | ------------  | ------------  | ------------  | ------------
 1|  Test if the application can deploy in docker | Navigate to http://localhost:8081/ | The web application should be loaded.| The web application is loaded successful| Pass 
-2|  Test if the user able to add todo items | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
+2|  Test if the user able to add todo items | Click on the create new todo item text area to add todo items Enter text "Teting"click button submit | The user should be able to add to do items| Todo Items are added successful| Pass 
 Test Script|  QE Manager | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
 
 
