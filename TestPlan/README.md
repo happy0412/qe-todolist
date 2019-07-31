@@ -4,7 +4,6 @@ Siphahle Nomnganga
 31 July 2019
 <h1>Test Plan</h1>
 
-	<h1>1. Introduction </h1>
 The Test Plan has been created to communicate the test approach to team members. It includes the objectives, application requirements, Assumptions/ risks and approach.  This document will clearly identify what the test deliverables will be and what is deemed in and out of scope.
 
 <h1>1.1 Objectives</h1>
