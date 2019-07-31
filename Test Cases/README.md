@@ -11,8 +11,8 @@ Test case id | Test scenairo           | Step Details           | Expected Resul
 2|  Test if the user able to add todo items | Click on the create new todo item text area to add todo items Enter text "Teting"click button submit | The user should be able to add to do items| Todo Items are added successful| Pass 
 3|  Test if the user can be able to Edit todo items successful | Enter the data in the update value text area to update todo items and click the update button. | The todo items should be update and appear on the left-hand side of the update value text field| The todo items is updated successful and it appears on the left-hand side of the update value text field.| Pass
 4|  Test if the user can be able to delete todo items  | Click the X button to delete todo items. | The todo items should be deleted | The X button delete the todo items successful. | Pass
-Test Script|  QE Manager | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
-Test Script|  QE Manager | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
+5|  Test if the list items persist after browser refresh  | Click the refresh button on the browser. | The todo items should not disappear | The todo items does not disappear.| Pass
+6|  Test if the todo items can be submitted or updated with an empty text field  | Click the submit or update button  | The todo items should not be updated or submitted it should remain the same or throw an error message.| The application can submit and update empty fields. | Fail
 Test Script|  QE Manager | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
 
 
