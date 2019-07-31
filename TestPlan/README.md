@@ -19,13 +19,14 @@ Siphahle Nomnganga| QA
 
  <h1>2 Application requirements</h1>
 The initial phase will include all must have requirements. These and any other requirements that get included must all be tested. At the end of the project a tester must be able to implement the following:
-1.	Application must be able to deploy in docker
-2.	Multiple users should be able to view the shared public todo list (no live updates, only on refresh)
-3.	Todo list items should persist after browser refresh
-4.	Todo items should not be able to be empty
-5.	Should be able to add todo items
-6.	Should be able to delete todo items
-7.	Should be able to edit todo items
+
+* 	Application must be able to deploy in docker
+* 	Multiple users should be able to view the shared public todo list (no live updates, only on refresh)
+* 	Todo list items should persist after browser refresh
+* 	Todo items should not be able to be empty
+* 	Should be able to add todo items
+* 	Should be able to delete todo items
+* 	Should be able to edit todo items
 
 
 
