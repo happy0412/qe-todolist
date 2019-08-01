@@ -15,7 +15,7 @@ Inside the project navigate to resource folder and copy "resource" folder c driv
 to your C driver so that you can execute this line successfully.  
 //System.setProperty("webdriver.gecko.driver", "/resources/geckodriver.exe");
 
-<h1>SStep 3:</h1>
+<h1>Step 3:</h1>
 
 After finishing step 2 open your IDE and open project but before running the project please make sure you have Firefox installed in your machine.
 
