@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ilab.ilabwebsite.general.All_Tests_Suite_Test
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 423.121 sec

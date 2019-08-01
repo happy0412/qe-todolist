@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ilab.ilabwebsite.home.ILAB_FUNC_HOME_0001_Simple_Navigation_Click_Views_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 194.912 sec
