@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ilab.ilabwebsite.aboutus.ILAB_FUNC_ABOUT_0001_Simple_Page_View_Test
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.49 sec
