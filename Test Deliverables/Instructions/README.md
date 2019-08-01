@@ -7,11 +7,11 @@ Siphahle Nomnganga
 <h1>Step 1:</h1>
 
 In order to run this project clone the project from github to youur netbeans project 
-and then open it in your IDE it can be netbeans or eclipse.
+and then open it in your IDE. It can be netbeans, eclipse or any IDE.
 
 <h1>Step 2:</h1>
 
-Inside the project navigate to resource folder and copy "resource" folder c drive
+Inside the project navigate to resource folder and copy "resource" folder 
 to your C driver so that you can execute this line successfully.  
 //System.setProperty("webdriver.gecko.driver", "/resources/geckodriver.exe");
 
@@ -21,7 +21,8 @@ After finishing step 2 open your IDE and open project but before running the pro
 
 <h1>Step 4:</h1> 
 
-After finishing step 4 navigate to the project and will see to maven projects one is framework and the second is testcases. Before running the two projects make sure you clean and build and the browser will be opened. 
+After finishing step 4 navigate to the project and will see two maven projects one is framework and the second one is testcases. Before running the two projects make sure you clean and build. After cleaning and build navigate to testcases and click 
+Test packages. View the following package "entersekt.nodejsapp.qetodolist" and will see a java file, right click on the file, select "Test File" and will automatically open a browser. 
 
 
 
