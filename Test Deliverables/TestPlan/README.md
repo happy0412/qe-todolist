@@ -48,3 +48,4 @@ Deliverable | For           | Date/ Milestone
 Test Plan|  QE Manager | 01/08/2019
 Test Cases|  QE Manager | 01/08/2019
 Test Script|  QE Manager | 01/08/2019
+Bug Report|  QE Manager | 01/08/2019
