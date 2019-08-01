@@ -13,6 +13,6 @@ Test case id | Test scenairo           | Step Details           | Expected Resul
 4|  Test if the user can be able to delete todo items  | Click the X button to delete todo items. | The todo items should be deleted | The X button delete the todo items successful. | Pass
 5|  Test if the list items persist after browser refresh  | Click the refresh button on the browser. | The todo items should not disappear | The todo items does not disappear.| Pass
 6|  Test if the todo items can be submitted or updated with an empty text field  | Click the submit or update button  | The todo items should not be updated or submitted it should remain the same or throw an error message.| The application can submit and update empty fields. | Fail
-Test Script|  QE Manager | 01/08/2019 | 01/08/2019| 01/08/2019| 01/08/2019
+7|  Test if Multiple users can be able to view the shared public todo list after clicking the refresh browser button | Click the refresh button on the browser | Users can be able to view the public shared todo list after clicking the browser refresh| Users can't view the public shared tdo list after clicking the browser refresh button| fail
 
 
