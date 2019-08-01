@@ -7,7 +7,7 @@ Siphahle Nomnganga
 The Test Plan has been created to communicate the test approach to team members. It includes the objectives, application requirements, Assumptions/ risks and approach.  This document will clearly identify what the test deliverables will be and what is deemed in and out of scope.
 
 <h1>1.1 Objectives</h1>
-QE Todolist is a web-based application that creates, update, edit, and delete items. This software was built with node js. The team is responsible for testing the application and ensuring it meet the minimum requirements.
+QE Todolist is a web-based application that creates, update, edit, and delete items. This software was built with node js. The team is responsible for testing the application and ensuring it meet the minimum requirements and the team will strictly focus on the forntend of the application.
 
 <h1>1.2 Team Members</h1>
 
