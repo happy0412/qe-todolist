@@ -40,7 +40,7 @@ Exploratory testing will play a huge role of the testing since I have never used
  <h1>4.1 Test Automation/ Manual Testing </h1>
 Both manual and Automation Testing will be performed.
 <h1>5 Test Environment  </h1>
-A server is required for web server. The application will be tested on windows operating system and it will run on Google chrome.
+A  web server is required. The application will be tested on windows 10 operating system and it will run on FireFox.
  <h1> 6. Major Deliverables</h1>
  
 Deliverable | For           | Date/ Milestone
