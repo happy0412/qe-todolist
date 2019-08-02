@@ -30,7 +30,7 @@ The initial phase will include all must have requirements. These and any other r
 
 <h1>3 Features not to be Tested</h1>
 
-In this section, we list out the features which are not included in the project.
+In this section, we list out the features which are not included in the project can be tested in the future.
 
 * The application (frontend only) should be ported to Cordova and run as a mobile application.
 * The application backend should run in Kubernetes on a 3 node cluster with multiple replicas of each pod.
