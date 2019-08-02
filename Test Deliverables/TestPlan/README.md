@@ -28,19 +28,28 @@ The initial phase will include all must have requirements. These and any other r
 * 	Should be able to delete todo items
 * 	Should be able to edit todo items
 
+<h1>3 Features not to be Tested</h1>
+
+In this section, we list out the features which are not included in the project.
+
+* The application (frontend only) should be ported to Cordova and run as a mobile application.
+* The application backend should run in Kubernetes on a 3 node cluster with multiple replicas of each pod.
+* Should be able to do rolling updates on the backend service without downtime
+  Application should be self healing after network issues, node outages, node restarts and other issues
 
 
-
-<h1>3 Assumptions /Risks</h1>
+<h1>4 Assumptions /Risks</h1>
 One of the risks in our project is that data is not being stored after adding a list.
 
- <h1>4 Test Approach </h1>
+ <h1>5 Test Approach </h1>
+ 
 The project is using an agile approach, with weekly iterations. At the end of each week the requirements identified for that iteration will be delivered to the team and will be tested
 Exploratory testing will play a huge role of the testing since I have never used this type of tool and will be learning as the process moves forward. Functional Testing will also be carried out during the testing of the software.
- <h1>4.1 Test Automation/ Manual Testing </h1>
+ <h1>5.1 Test Automation/ Manual Testing </h1>
 Both manual and Automation Testing will be performed.
-<h1>5 Test Environment  </h1>
+<h1>6 Test Environment  </h1>
 A  web server is required. The application will be tested on windows 10 operating system and it will run on FireFox.
+
  <h1> 6. Major Deliverables</h1>
  
 Deliverable | For           | Date/ Milestone
